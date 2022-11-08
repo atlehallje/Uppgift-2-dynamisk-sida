@@ -1,0 +1,39 @@
+{
+    "work": [
+        {
+            "workplace": "TGI Fridays Kungsträdgården",
+            "title": "May 2014 – November 2016 / Runner, waiter, bartender ",
+            "description": "In the span of two years I developed from runner to bartender which demanded several different stages and training."
+        },
+        {
+            "workplace": "Hotel Ravesis (Sydney)",
+            "title": "October 2016 – February 2018 / Bar supervisor",
+            "description": "During my time in Sydney I together with the other managers looked after the daily operations of a large-scale hotel & restaurant which for me included responsibility for three different bars."
+        },
+        {
+            "workplace": "Restaurant Farang",
+            "title": "April 2018 - June 2021 / Bartender",
+            "description": "Mediating quality in big quantities was essential at Farang, and so was the well managed organisation who paved way for the restaurants success."
+        },
+        {
+            "workplace": "Spesso",
+            "title": "June 2021 – Present / Bartender",
+            "description": "At Spesso I get to contribute to a impressive atmosphere in a luxurious enviroment with high quality service."
+        }
+    ],
+
+    "education": [
+        {
+            "workplace": "Chas Academy",
+            "title": "September 2022 - Present",
+            "description": "Frontend-developer for mobile & web."
+        },
+        {
+            "workplace": "Kärrtorps gymnasium",
+            "title": "August 2012 - June 2015",
+            "description": "Social science program with focus on media & communication."
+        }
+
+        
+    ]
+}    
